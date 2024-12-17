@@ -7,6 +7,6 @@
       - Data Visualization 📊
       - Machine Learning Modeling 🤖
   
-🛠️ **Technical Proficiencies**: --> Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn), SQL, R
+🛠️ **Technical Proficiencies** --> Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn), SQL, R
 
 📬 Feel free to reach out to me via jwinoto@uci.edu!
