@@ -5,3 +5,5 @@
 📂 Welcome to my GitHub portfolio! This portfolio showcases the projects I developed either from my educational programs or personal curiosity. These projects focus on data analysis, visualizations, and machine learning modeling, reflecting my passion for extracting insights and solving problems through data.
 
 Technical Proficiencies --> Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn), SQL, R
+
+Feel free to reach out to me via jwinoto@uci.edu
