@@ -9,6 +9,6 @@
 - User Interface Development 🎨
 - Database Engineering 🗄️
 
-🛠️ **Technical Proficiencies** --> Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn), SQL, R
+🛠️ **Technical Proficiencies** --> Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn), SQL, R, C# 
 
 📬 Feel free to reach out to me via jwinoto@uci.edu!
